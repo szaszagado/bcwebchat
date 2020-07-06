@@ -1,0 +1,165 @@
+@page
+@model probagetrequest.Pages.WilcomeModel
+@using Microsoft.AspNetCore.Http
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <!--meta name="viewport" content="width=device-width" /-->
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>Wilcome</title>
+    <style>
+        body {font-family: Arial, Helvetica, sans-serif;}
+        * {box-sizing: border-box;}
+
+        .msglist {
+            overflow-y: scroll;
+            height: 150px;
+            font-size: 12px;
+            background-color: #f1f1f1;
+        }
+
+        .open-button{
+            background-color: #555;
+            color: white;
+            padding: 16px 20px;
+            border: none;
+            cursor: pointer;
+            opacity: 0.8;
+            position: fixed;
+            bottom: 23px;
+            right: 28px;
+            width: 280px;
+        }
+
+        .chat-popup {
+            display: none;
+            position: fixed;
+            bottom: 0px;
+            right: 15px;
+            border: 3px solid #f1f1f1;
+            z-index: 9;
+        }
+
+        .form-container {
+            max-width: 300px;
+            padding: 10px;
+            background-color: #E8E8E8;
+        }
+
+        .form-container textarea {
+            width: 100%;
+            padding: 15px;
+            margin: 5px 0 22px 0;
+            border: none;
+            background: #f1f1f1;
+            resize: none;
+            min-height: 50px;
+        }
+
+        .form-container textarea:focus {
+            background-color: #ddd;
+            outline: none;
+        }
+
+        .form-container .btn {
+            background: #338033;
+            color: #ccc;
+            border: 2px solid #E8E8E8;
+            width: 100%;
+            height: 40px;
+            font-size: 18px;
+            border-radius: 4px;
+            transition: .6s;
+            overflow: hidden;
+        }
+        .form-container .btnclose {
+            background: #8B0000;
+            color: #ccc;
+            border: 2px solid #E8E8E8;
+            width: 100%;
+            height: 40px;
+            font-size: 18px;
+            border-radius: 4px;
+            transition: .6s;
+            overflow: hidden;
+        }
+
+
+    </style>
+</head>
+<body>
+    Welcome @HttpContext.Session.GetString("username")!
+    <br>
+    <br>
+    <button class="open-button" onclick="openForm()">Chat</button>
+            <div class="chat-popup" id="myForm">
+                <form action="/Wilcome" class="form-container">
+                    <a asp-page="profile">Change Profile</a>
+                    <a asp-page="index" asp-page-handler="logout">Logout</a>
+                    <h1>Chat</h1>
+                    <label>Welcome @HttpContext.Session.GetString("username")</label>
+                    <br>
+                    <br>
+                    <label><b>Message</b></label>
+                    <div class="msglist">
+                        <ul id="messagesList"></ul>
+                    </div>
+                    <textarea placeholder="Type message.." id="messageInput" onfocus="clearContents(this);"></textarea>
+
+                    <button type="button" class="btn" id="sendButton">Send</button>
+                    <button type="button" class="btnclose" onclick="closeForm()">Close</button>
+                </form>
+            </div>
+    </div>
+    <script>
+        function clearContents(element) {
+            element.value = '';
+        }
+        function openForm() {
+            document.getElementById("myForm").style.display = "block";
+        }
+        
+        function closeForm() {
+            document.getElementById("myForm").style.display = "none";
+        }
+        function openbutton() {
+            document.getElementById("myForm").style.display = "block";
+        }
+    </script>
+
+    <!--div class="container">
+        <div class="row">&nbsp;</div>
+        <div class="row">
+            <div class="col-2">Message</div>
+            <div class="col-4"><input type="text" id="messageInput" /></div>
+        </div>
+        <div class="row">&nbsp;</div>
+        <div class="row">
+            <div class="col-6">
+                <input type="button" id="sendButton" value="Send Message" />
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <hr />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <ul id="messagesList"></ul>
+        </div>
+    </div-->
+
+    <script>
+        var user = '@HttpContext.Session.GetString("username")'
+        console.log(user)
+    </script>
+
+    <script src="~/js/signalr/dist/browser/signalr.js"></script>
+    <script src="~/js/chat.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+@page
+@model probagetrequest.Pages.IndexModel
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Index</title>
+</head>
+<body>
+    <h3>Sign In</h3>
+    @Model.Msg
+    <form method="post" asp-page="index">
+        <table>
+            <tr>
+                <td>Username</td>
+                <td>
+                    <input asp-for="@Model.account.Username"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td>
+                    <input type="password" asp-for="@Model.account.Password" />
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>
+                    <input type="submit" value="Login" />
+                    <br />
+                    <a asp-page="signup">Sign Up</a>
+                </td>
+            </tr>
+        </table>
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,56 @@
+@page
+@model probagetrequest.Pages.SignUpModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SignUp</title>
+</head>
+<body>
+
+<h3>Sign Up</h3>
+<form method="post" asp-page="signup">
+    <table>
+        <tr>
+            <td>Username</td>
+            <td>
+                <input asp-for="@Model.account.Username" />
+            </td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td>
+                <input type="password" asp-for="@Model.account.Password" />
+            </td>
+        </tr>
+        <tr>
+            <td>Full Name</td>
+            <td>
+                <input asp-for="@Model.account.FullName" />
+            </td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>
+                <input type="email" asp-for="@Model.account.Email" />
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>
+                <input type="submit" value="Save" />
+                <br />
+                <a asp-page="index">Sign In</a>
+            </td>
+        </tr>
+    </table>
+
+</form>
+
+</body>
+</html>

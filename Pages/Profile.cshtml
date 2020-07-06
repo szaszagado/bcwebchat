@@ -1,0 +1,55 @@
+@page
+@model probagetrequest.Pages.ProfileModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SignUp</title>
+</head>
+<body>
+
+<h3>Profile</h3>
+<form method="post" asp-page="profile">
+    <table>
+        <tr>
+            <td>Username</td>
+            <td>
+                <input asp-for="@Model.account.Username" />
+                <input type="hidden" asp-for="@Model.account.Id">
+            </td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td>
+                <input type="password" asp-for="@Model.account.Password" />
+            </td>
+        </tr>
+        <tr>
+            <td>Full Name</td>
+            <td>
+                <input asp-for="@Model.account.FullName" />
+            </td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>
+                <input type="email" asp-for="@Model.account.Email" />
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>
+                <input type="submit" value="Save" />
+            </td>
+        </tr>
+    </table>
+
+</form>
+
+</body>
+</html>

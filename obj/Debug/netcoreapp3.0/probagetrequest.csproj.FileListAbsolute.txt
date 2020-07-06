@@ -1,0 +1,348 @@
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.csprojAssemblyReference.cache
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\staticwebassets\probagetrequest.StaticWebAssets.Manifest.cache
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\staticwebassets\probagetrequest.StaticWebAssets.xml
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorAssemblyInfo.cache
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorAssemblyInfo.cs
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.AssemblyInfoInputs.cache
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.AssemblyInfo.cs
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.exe
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.deps.json
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.runtimeconfig.json
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.runtimeconfig.dev.json
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.pdb
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.Views.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.Views.pdb
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.TagHelpers.input.cache
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.TagHelpers.output.cache
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorCoreGenerate.cache
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorTargetAssemblyInfo.cache
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorTargetAssemblyInfo.cs
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.Views.pdb
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.dll
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.pdb
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.csproj.CopyComplete
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\Welcome.cshtml.g.cs
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\BCrypt.Net-Core.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\SignUp.cshtml.g.cs
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\Razor\_ViewImports.cshtml.g.cs
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\Profile.cshtml.g.cs
+C:\Users\szasz\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\Wilcome.cshtml.g.cs
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\libman.json
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Owin.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Owin.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\MySql.Data.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Ubiety.Dns.Core.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Renci.SshNet.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\SshNet.Security.Cryptography.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\DnsClient.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\MongoDB.Libmongocrypt.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\SharpCompress.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.Mvc.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.Razor.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.Helpers.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.WebPages.Deployment.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.WebPages.Razor.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.WebPages.dll
+C:\Users\szasz\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Web.Infrastructure.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.csprojAssemblyReference.cache
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\staticwebassets\probagetrequest.StaticWebAssets.Manifest.cache
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\staticwebassets\probagetrequest.StaticWebAssets.xml
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorAssemblyInfo.cache
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorAssemblyInfo.cs
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.AssemblyInfoInputs.cache
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.AssemblyInfo.cs
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.pdb
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\libman.json
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.exe
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.deps.json
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.runtimeconfig.json
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.runtimeconfig.dev.json
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.pdb
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.Views.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.Views.pdb
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\BCrypt.Net-Core.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\DnsClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.Mvc.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.Razor.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.Helpers.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.WebPages.Deployment.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.WebPages.Razor.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.WebPages.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Owin.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Web.Infrastructure.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\MongoDB.Libmongocrypt.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\MySql.Data.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Ubiety.Dns.Core.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Owin.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\SharpCompress.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\Renci.SshNet.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\SshNet.Security.Cryptography.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.TagHelpers.input.cache
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.TagHelpers.output.cache
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorCoreGenerate.cache
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\Profile.cshtml.g.cs
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\SignUp.cshtml.g.cs
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\Welcome.cshtml.g.cs
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\Wilcome.cshtml.g.cs
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\Razor\_ViewImports.cshtml.g.cs
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorTargetAssemblyInfo.cache
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorTargetAssemblyInfo.cs
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.Views.pdb
+C:\Users\szasz\OneDrive\Asztali gép\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.csproj.CopyComplete
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\libman.json
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.exe
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.deps.json
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.runtimeconfig.json
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.runtimeconfig.dev.json
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.pdb
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.Views.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\probagetrequest.Views.pdb
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\BCrypt.Net-Core.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\DnsClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.Mvc.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.Razor.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.Helpers.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.WebPages.Deployment.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.WebPages.Razor.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Web.WebPages.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Owin.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Web.Infrastructure.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\MongoDB.Libmongocrypt.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\MySql.Data.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Ubiety.Dns.Core.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Owin.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\SharpCompress.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\Renci.SshNet.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\SshNet.Security.Cryptography.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.csprojAssemblyReference.cache
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\staticwebassets\probagetrequest.StaticWebAssets.Manifest.cache
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\staticwebassets\probagetrequest.StaticWebAssets.xml
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorAssemblyInfo.cache
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorAssemblyInfo.cs
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.AssemblyInfoInputs.cache
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.AssemblyInfo.cs
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.TagHelpers.input.cache
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.TagHelpers.output.cache
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorCoreGenerate.cache
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\Profile.cshtml.g.cs
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\SignUp.cshtml.g.cs
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\Welcome.cshtml.g.cs
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\Razor\Pages\Wilcome.cshtml.g.cs
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\Razor\_ViewImports.cshtml.g.cs
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorTargetAssemblyInfo.cache
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.RazorTargetAssemblyInfo.cs
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.Views.pdb
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.csproj.CopyComplete
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.dll
+C:\Users\szasz\OneDrive\Asztali gép\Asztal_mindenes\probagetrequest\obj\Debug\netcoreapp3.0\probagetrequest.pdb
